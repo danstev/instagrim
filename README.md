@@ -1,3 +1,6 @@
+Same as original Instagrim repo, just cloned, so I can make it private.
+
+---
 Instagrim  is an example web app using Cassandra as a back end.   The app allows picture uploads, creates a thumbnail and 
 a  B/W version of the picture, and a simple login.
 
